@@ -1,6 +1,6 @@
-# 📊 SlayTheSpire2-HextechRunes-synergy
 
-> 为《杀戮尖塔 2》海克斯符文 Mod 设计的羁绊/特质系统 —— 参考云顶之弈羁绊机制，收集同路线符文触发组合效果。
+
+#
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
@@ -14,7 +14,7 @@
 本项目在原作者 [Natsuki](https://github.com/Natsuki) 的 **海克斯符文** Mod 基础上，新增了 **11 个羁绊/特质（Synergy）**。玩家收集同一羁绊的符文即可触发强力组合效果，为符文选择增加策略深度。
 
 > - 🧩 **原始 Mod**：海克斯符文 v0.5.5（原作者 Natsuki）
-> - ⚙️ **本仓库新增**：11 个羁绊系统 + 权重加成 + 门槛预览等配套机制
+> - ⚙️ **本仓库**：11 个羁绊系统 + 权重加成 + 门槛预览等配套机制
 
 ---
 
