@@ -14,7 +14,7 @@
 本项目在原作者 [Natsuki](https://github.com/Natsuki) 的 **海克斯符文** Mod 基础上，新增了 **11 个羁绊/特质（Synergy）**。玩家收集同一羁绊的符文即可触发强力组合效果，为符文选择增加策略深度。
 
 > - 🧩 **原始 Mod**：海克斯符文 v0.5.5（原作者 Natsuki）
-> - ⚙️ **本仓库**：11 个羁绊系统 + 权重加成 + 门槛预览等配套机制
+> - ⚙️ **本仓库**：11 个羁绊系统 + 权重加成 + 门槛预览等配套机制，基于 Hextech Synergy Builder 技能构建
 
 ---
 
@@ -59,7 +59,24 @@
 
 ---
 
+## 游戏截图
+
+### 门槛预览系统
+
+符文选择界面实时展示羁绊进度，用 ✓（已激活）/ ○（未达成）标注每个门槛，并可预览选择后的状态。
+
+![门槛预览系统](docs/screenshots/synergy-threshold-preview.png)
+
+### 全地图悬浮提示
+
+地图上任意已拥有符文悬浮提示中自动显示羁绊进度与门槛详情。
+
+![全地图悬浮提示](docs/screenshots/map-hover-tooltip.png)
+
+---
+
 ## 相关链接
 
 - [Slay the Spire 2 Steam 页面](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/)
+- [Hextech Synergy Builder 技能文档](.trae/skills/hextech-synergy-builder/SKILL.md)
 - [Harmony 文档](https://harmony.pardeike.net/)
