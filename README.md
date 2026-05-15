@@ -22,7 +22,7 @@
 
 - 🎯 **凑羁绊玩法** —— 收集同一羁绊的符文即可激活组合效果，为符文选择增加策略维度
 - 🧬 **多羁绊路线** —— 涵盖经济、成长、叠层、Debuff、攻击、法术等多种打法风格
-- ⚖️ **权重加成机制** —— 拥有某羁绊 1 枚符文时，同羁绊符文后续出现权重提升
+- ⚖️ **权重加成机制** —— 拥有某羁绊 1 枚符文时，同羁绊符文后续出现权重提升至 **3 倍**；拥有 2 枚且该羁绊有 3 件门槛时提升至 **5 倍**
 - 👁️ **门槛预览系统** —— 符文选择界面实时展示羁绊进度（✓/○），并可预览"选择此符文后的状态"
 - 🗺️ **全地图悬浮提示** —— 任意已拥有符文上悬浮即可查看羁绊进度与门槛详情
 - 🏷️ **彩色羁绊徽章** —— 符文卡片上显示颜色徽章：🔴已激活 / 🟡进行中 / 🟢未触发
@@ -77,17 +77,18 @@
 
 ---
 
- ##[🐛 BUG 反馈]
- (https://mcnbuagj5fj0.feishu.cn/share/base/form/shrcnl9uCfffX9ZBZdJMyk9jzxg)
-
----
-
 ## 作者与许可证
 
 - **作者**：dxxzy012
 - **原始 Mod 作者**：Natsuki（Harmony ID: Natsuki.HextechRunes）
 - **原始 Mod 仓库**：[s1f102500012/sts2mod](https://github.com/s1f102500012/sts2mod/tree/main)
 - **许可证**：[MIT License](LICENSE)
+
+---
+
+## 🐛 BUG 反馈
+
+# **[点击这里反馈游戏 BUG](https://mcnbuagj5fj0.feishu.cn/share/base/form/shrcnl9uCfffX9ZBZdJMyk9jzxg)**
 
 ---
 
