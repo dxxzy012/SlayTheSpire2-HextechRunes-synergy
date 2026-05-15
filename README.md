@@ -74,7 +74,12 @@
 > - ❌ **Heartsteel（心之钢）** —— 符文效果与本 Mod 的羁绊系统产生交互冲突
 >
 > 建议在 Mod 管理器中禁用上述 Mod 后再启用本 Mod，以确保最佳游戏体验。
-- [🐛 BUG 反馈](https://mcnbuagj5fj0.feishu.cn/share/base/form/shrcnl9uCfffX9ZBZdJMyk9jzxg)
+
+---
+
+ ##[🐛 BUG 反馈]
+ (https://mcnbuagj5fj0.feishu.cn/share/base/form/shrcnl9uCfffX9ZBZdJMyk9jzxg)
+
 ---
 
 ## 作者与许可证
